@@ -1,4 +1,4 @@
 function hola(){
-    alert("bienvenido a mi pagina putos");
+    alert("puto el que lo lea");
 }
 hola();
