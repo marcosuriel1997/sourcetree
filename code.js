@@ -1,4 +1,4 @@
 function hola(){
-    alert("cargando calculadora....");
+    alert("Aceptar cookies de la pagina");
 }
 hola();
